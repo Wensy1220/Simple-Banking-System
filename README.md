@@ -16,3 +16,6 @@ python -m pytest tests/ -v
 
 python main.py
 
+
+
+Note: the banking_system folder contain the runing results, it should not influence your running but if you want to run from scratch, please delete _pycache_ folder and accounts.csv.
